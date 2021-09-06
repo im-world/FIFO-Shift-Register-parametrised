@@ -3,7 +3,7 @@
 Implemented a FIFO Shift Register in Verilog, with parametrized width and depth, as well as a testbench.
 
 
-The descriptions of the files included is as follows:
+The descriptions of the files included are as follows:
 
 • Implementation Summary.pdf - A summary of the design and the implementation reports
 
