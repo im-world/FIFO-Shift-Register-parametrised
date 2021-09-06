@@ -13,7 +13,7 @@ The descriptions of the files included are as follows:
 
 • constraints.xdc - Timing constraints for the synthesis
 
-• Simulation Results.wcfg - Waveforms generated after the simulation (can be opened in Vivado)
+• Simulation Results.wcfg - Waveforms generated after the simulation 
 
 
 
