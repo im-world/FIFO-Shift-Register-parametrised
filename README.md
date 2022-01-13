@@ -17,5 +17,5 @@ The descriptions of the files included are as follows:
 
 
 
-This is the beginning of my journey with Verilog, and hence I haven't touched on the finer aspects of the design such as timing and power consumption. Please tweak the design according to your requirements, and avoid using it as it is.
+This is the beginning of my journey with Verilog, and hence I haven't touched on the finer aspects of the design such as timing, area, and power consumption. Please tweak the design according to your requirements, and avoid using it as it is (as it might not be optimal for your purposes).
 
